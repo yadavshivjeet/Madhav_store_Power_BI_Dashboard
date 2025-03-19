@@ -7,4 +7,5 @@ Discover Madhav Stores's E-commerce sales analysis through our interactive Power
  . Data Vidualization  
  . Databoard design  
  . Sharing Insight  
- 
+ ## Problem Statement/objective-
+ We want to analyze Madhav Stores sales data across india and create interactive dashboard using Power BI.
