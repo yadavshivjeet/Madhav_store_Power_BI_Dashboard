@@ -9,3 +9,11 @@ Discover Madhav Stores's E-commerce sales analysis through our interactive Power
  . Sharing Insight  
  ## Problem Statement/objective-
  We want to analyze Madhav Stores sales data across india and create interactive dashboard using Power BI.
+ ## Dataset-
+ . Order.csv  
+ . Details.csv
+ ## What i did?
+ .Transform Data(Cleaning Formating, Performing aggregate function,grouping etc)
+ .Used DAX queries for calculating AOV(Average Order Value).
+ .Implemented important KPI's to visually represent and monitor our data like (sum of amount, sum of quantity, sum of profit, sum of AOV)
+ .Used Various charts(Donut charts,Stacked Bar chart, Stacked column chart, card, Slicer etc.) according to cotegoies.  
