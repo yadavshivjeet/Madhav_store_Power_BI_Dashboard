@@ -22,10 +22,9 @@ Discover Madhav Stores's E-commerce sales analysis through our interactive Power
  #### 3.Load the Data in Power BI:
  The transform data was loaded into Power BI For visualization and analysis. By using this various chart(Donut chart, Stacked Bar chart, Stacked Column chart, Card, Slicer etc.) according to categories.
  ## Insight & recommendation-
- ## 1.
  The top four states promoting maximum sales and profit are Maharashtra,Madhya Pradesh, Gujarat, and Delhi.  
- ## 2.
- Clothing category is the most popular for shoping, followed by Electronics and Furniture. Offering exciting discounts, coupons, and offers can attract customer and improve sales in these cotegories.
- ## 3.
+ Clothing category is the most popular for shoping, followed by Electronics and Furniture. Offering exciting discounts, coupons, and offers can attract customer and improve 
+ sales in these cotegories.  
+ 
  
 
